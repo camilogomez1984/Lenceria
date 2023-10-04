@@ -1,0 +1,100 @@
+{
+  "prendas": [
+    {
+      "id": 1,
+      "img": "img/conjunto-b.jpg", 
+      "nombre": "Conjunto blanco",    
+      "color": "Blanco",
+      "talle": ["S", "M", "L"],
+      "precio": 8000
+    },
+    {
+      "id": 2,
+      "img": "img/conjunto-n.jpg",
+      "nombre": "Conjunto negro",    
+      "color": "Negro",
+      "talle": ["S", "M", "L"],
+      "precio": 8000
+    },
+    {
+      "id": 3,
+      "img": "img/conjunto-r.jpg", 
+      "nombre": "Conjunto rojo",     
+      "color": "Rojo",
+      "talle": ["S", "M", "L"],
+      "precio": 8000
+    },
+    {
+      "id": 4,
+      "img":"img/corpi-blanco.jpg",
+      "nombre": "Corpiño blanco",
+      "color": "Blanco",
+      "talle": ["S", "M", "L"],
+      "precio": 2500
+    },
+    {
+      "id": 5,
+      "img":"img/corpi-negro.jpg",
+      "nombre": "Corpiño negro",
+      "color": "Negro",
+      "talle": ["S", "M", "L"],
+      "precio": 2500
+    },
+    {
+      "id": 6,
+      "img":"img/corpi-rojo.jpg",
+      "nombre": "Corpiño rojo",
+      "color": "Negro",
+      "talle": ["S", "M", "L"],
+      "precio": 2500
+    },
+    {
+      "id": 7,
+      "img":"img/colaless-blanco.png",
+      "nombre": "Colaless blanco",
+      "color": "Blanco",
+      "talle": ["S", "M", "L"],
+      "precio": 2000
+    },
+    {
+      "id": 8,
+      "img":"img/colaless-negra.jpg",
+      "nombre": "Colaless negro",
+      "color": "Negro",
+      "talle": ["S", "M", "L"],
+      "precio": 2000
+    },
+    {
+      "id": 9,
+      "img":"img/colaless-rojo.jpg",
+      "nombre": "Colaless rojo",
+      "color": "Rojo",
+      "talle": ["S", "M", "L"],
+      "precio": 2000
+    },
+    {
+      "id": 10,
+      "img":"img/body-blanco.jpg",
+      "nombre": "Body blanco",
+      "color": "Blanco",
+      "talle": ["S", "M", "L"],
+      "precio": 7000
+    },
+    {
+      "id": 11,
+      "img":"img/body-negro.png",
+      "nombre": "Body negro",
+      "color": "Negro",
+      "talle": ["S", "M", "L"],
+      "precio": 7000
+    },
+    {
+      "id": 12,
+      "img":"img/body-rojo.jpg",
+      "nombre": "Body rojo",
+      "color": "Rojo",
+      "talle": ["S", "M", "L"],
+      "precio": 7000
+    }
+  ]
+  }

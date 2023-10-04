@@ -1,0 +1,137 @@
+#contenedor-prendas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+  }
+  
+  #carrito-container {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+    background-color:rgb(253, 241, 242);
+  }
+  article {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+    text-align: center;
+    background-color:rgb(253, 241, 242);
+  }
+  
+  .prenda-img {
+    max-width: 100%;
+    height: auto;
+  }
+  .prenda-nombre {
+    font-size: 1.2rem;
+    margin: 5px 0;
+    color: #333;
+  }
+  
+  .prenda-color {
+    color:indigo;
+  }
+
+  .btn-compra {
+    background-color: rgb(196, 6, 196);
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    font-size: 1rem;
+    margin-top: 10px;
+  }
+
+  .btn-compra:hover {
+    background-color: rgb(103, 0, 103);
+  }
+
+  body {
+    background-color: pink;
+  }
+
+  h1 {
+    font-family: 'Great Vibes', cursive;
+    text-align: center;
+    color: white;
+    font-size: 5rem;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+
+  .cantidad-precio-carr {
+    text-align: center;
+  }
+
+  .producto-en-carrito {
+    text-align: center;
+  }
+
+  .total-pagar {
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+.input-tarjeta {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+  margin-top: 1rem;
+}
+
+.btn-comprar {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.btn-comprar:hover {
+  background-color: grey;
+}
+
+#formulario-pago-container {
+  display: grid;
+  grid-template-columns:min-content;
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 10px;
+  width: 300px;
+  background-color:rgb(253, 241, 242);
+}
+
+#formulario-pago-container h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+#total-container {
+ display: grid;
+ grid-template-columns: min-content;
+ border: 1px solid #ddd;
+ padding: 10px;
+ margin: 10px;
+ width: 300px;
+ background-color:rgb(253, 241, 242);
+ text-align: center;
+}
+
+.total-pagar {
+ width: 100%;
+ text-align: center;
+ font-size: 1.5rem;
+ margin-right:12rem;
+}
